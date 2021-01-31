@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ecf7b-b3dd-4541-ae3e-e1fe5f293e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test1/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1/exam1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1/t1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1/userinfo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/exam1.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/hw12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/pre12.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/shoping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,13 +74,16 @@
         <option value="$PROJECT_DIR$/test/test1/a.txt" />
         <option value="$PROJECT_DIR$/test/test1/userinfo.txt" />
         <option value="$PROJECT_DIR$/test/test1/exam1.py" />
+        <option value="$PROJECT_DIR$/day12/pre12.py" />
+        <option value="$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day13 课堂笔记以及代码/day13/01 作业讲解.py" />
+        <option value="$PROJECT_DIR$/day12/hw12.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="514" />
+    <option name="x" value="478" />
     <option name="y" value="23" />
-    <option name="width" value="926" />
+    <option name="width" value="962" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -96,7 +105,12 @@
             <path>
               <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSPython" type="462c0819:PsiDirectoryNode" />
-              <item name="day11" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FSPython" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exam1">
+  <component name="RunManager" selected="Python.hw12">
     <configuration name="exam1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,48 +162,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test1/exam1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw10 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FSPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10/hw10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FSPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10/pre10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,6 +191,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FSPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12/hw12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pre11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,13 +233,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pre12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FSPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12/pre12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw12" />
+        <item itemvalue="Python.pre12" />
         <item itemvalue="Python.exam1" />
         <item itemvalue="Python.hw11" />
         <item itemvalue="Python.pre11" />
-        <item itemvalue="Python.hw10 (1)" />
-        <item itemvalue="Python.hw10" />
       </list>
     </recent_temporary>
   </component>
@@ -264,9 +278,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="514" y="23" width="926" height="873" extended-state="0" />
+    <frame x="478" y="23" width="962" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.24640884" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.03188098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +294,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.7644046" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3290653" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5006402" weight="0.51472473" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5006402" weight="0.3393086" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -305,30 +320,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/llh/day04 列表 数组等/笔记/day04/01 作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day3/hw3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4004">
-          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day05 字典/01 作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="105" column="26" lean-forward="true" selection-end-line="242" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/24 仓库/day05/代码和笔记/03 作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/day4/ex.py" />
     <entry file="file://$PROJECT_DIR$/day4/hw4.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -573,13 +564,6 @@
     <entry file="file://$PROJECT_DIR$/test/shop.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/shoping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test1/t1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -605,6 +589,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/pre12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#14#27#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day13 课堂笔记以及代码/day13/01 作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day12 课堂笔记以及代码/day12/03 列表推导式,生成器表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="53" selection-start-line="45" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/hw12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1317">
+          <caret line="163" column="16" lean-forward="true" selection-start-line="163" selection-start-column="16" selection-end-line="163" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/shoping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
