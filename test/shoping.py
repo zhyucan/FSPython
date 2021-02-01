@@ -1,6 +1,4 @@
-#-*- coding = utf-8 -*-
-#@Time : 2020/6/27 15:15
-#@Author : straightup
+log = print
 
 # 1.完成一个商城购物车的程序。
 #
