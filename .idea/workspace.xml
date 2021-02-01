@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ecf7b-b3dd-4541-ae3e-e1fe5f293e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day13/pre13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/hw13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test1/jiui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/hw12.py" beforeDir="false" afterPath="$PROJECT_DIR$/day12/hw12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/shoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/shoping.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,29 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day13/pre13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
-              <folding>
-                <element signature="e#14#31#0" />
-                <element signature="e#14#31#0" />
-                <element signature="e#14#31#0" />
-                <element signature="e#14#31#0" />
-                <element signature="e#14#31#0" />
-                <element signature="e#14#31#0" />
-                <element signature="e#768#784#0" />
-                <element signature="e#768#784#0" />
-                <element signature="e#768#784#0" />
-                <element signature="e#768#784#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,19 +65,23 @@
         <option value="$PROJECT_DIR$/test/exam1.py" />
         <option value="$PROJECT_DIR$/test/test1/a.txt" />
         <option value="$PROJECT_DIR$/test/test1/userinfo.txt" />
-        <option value="$PROJECT_DIR$/test/test1/exam1.py" />
         <option value="$PROJECT_DIR$/day12/pre12.py" />
         <option value="$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day13 课堂笔记以及代码/day13/01 作业讲解.py" />
         <option value="$PROJECT_DIR$/test/shoping.py" />
         <option value="$PROJECT_DIR$/day12/hw12.py" />
         <option value="$PROJECT_DIR$/day13/pre13.py" />
+        <option value="$PROJECT_DIR$/test/test1/exam1.py" />
+        <option value="$PROJECT_DIR$/test/test1/jiui.py" />
+        <option value="$PROJECT_DIR$/day13/register" />
+        <option value="$PROJECT_DIR$/day13/msg" />
+        <option value="$PROJECT_DIR$/day13/hw13.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="759" />
+    <option name="x" value="434" />
     <option name="y" value="23" />
-    <option name="width" value="681" />
+    <option name="width" value="1006" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -143,7 +126,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day13" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -152,6 +135,7 @@
       <recent name="$PROJECT_DIR$/day9" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day13" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/day8" />
       <recent name="$PROJECT_DIR$/day1" />
@@ -169,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pre13">
+  <component name="RunManager" selected="Python.hw13">
     <configuration name="exam1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,27 +175,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FSPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day11/hw11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="hw12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,6 +188,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12/hw12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FSPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13/hw13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw13" />
         <item itemvalue="Python.pre13" />
         <item itemvalue="Python.hw12" />
         <item itemvalue="Python.pre12" />
         <item itemvalue="Python.exam1" />
-        <item itemvalue="Python.hw11" />
       </list>
     </recent_temporary>
   </component>
@@ -299,10 +283,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="759" y="23" width="681" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="434" y="23" width="1006" height="873" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.045454547" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.21319798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,7 +298,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.7644046" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3290653" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5006402" weight="0.6786172" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5006402" weight="0.5659411" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -341,49 +324,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day4/hw4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day06 课堂笔记以及代码/day06/01 作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="14" lean-forward="true" selection-end-line="148" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/作业/day05/s21day05 作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1091">
-          <caret line="91" column="12" lean-forward="true" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5/hw5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="176" column="25" lean-forward="true" selection-start-line="176" selection-start-column="25" selection-end-line="176" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SICP/sicp-py/1.2.py" />
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day07 课堂笔记以及代码/day07/01 内容回顾，作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="240" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/作业/day06/s21day06 作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="329" column="9" lean-forward="true" selection-end-line="337" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day6/hw6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6864">
@@ -518,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 1/python/考试（第一次）/机试题.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/21期教学计划/day08/考试题19-22.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -643,17 +576,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test1/exam1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="312" lean-forward="true" selection-start-line="312" selection-end-line="312" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day13/pre13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="432">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
           <folding>
             <element signature="e#14#31#0" />
             <element signature="e#14#31#0" />
@@ -666,6 +592,61 @@
             <element signature="e#768#784#0" />
             <element signature="e#768#784#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day14 课堂笔记以及代码/day14/01 作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test1/exam1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="290" column="21" lean-forward="true" selection-start-line="290" selection-start-column="21" selection-end-line="290" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day15 课堂笔记以及代码/day15/第一次考试机试题讲解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 1/python/考试（第一次）/机试题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test1/jiui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/register">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/xiao/backpy/w1/web3/上课预习3/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="130" column="4" lean-forward="true" selection-start-line="130" selection-start-column="4" selection-end-line="133" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/hw13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10488">
+          <caret line="437" lean-forward="true" selection-start-line="437" selection-end-line="437" />
         </state>
       </provider>
     </entry>
