@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ecf7b-b3dd-4541-ae3e-e1fe5f293e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day14/hw14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/login" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/pre14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/times" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test1/jiui.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test1/jiui.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +11,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test1/jiui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2928">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +77,6 @@
         <option value="$PROJECT_DIR$/day12/hw12.py" />
         <option value="$PROJECT_DIR$/day13/pre13.py" />
         <option value="$PROJECT_DIR$/test/test1/exam1.py" />
-        <option value="$PROJECT_DIR$/test/test1/jiui.py" />
         <option value="$PROJECT_DIR$/day13/register" />
         <option value="$PROJECT_DIR$/day13/msg" />
         <option value="$PROJECT_DIR$/day13/hw13.py" />
@@ -79,13 +84,14 @@
         <option value="$PROJECT_DIR$/day14/login" />
         <option value="$PROJECT_DIR$/day14/times" />
         <option value="$PROJECT_DIR$/day14/hw14.py" />
+        <option value="$PROJECT_DIR$/test/test1/jiui.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="505" />
+    <option name="x" value="462" />
     <option name="y" value="23" />
-    <option name="width" value="935" />
+    <option name="width" value="978" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -108,7 +114,7 @@
             <path>
               <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSPython" type="462c0819:PsiDirectoryNode" />
-              <item name="day14" type="462c0819:PsiDirectoryNode" />
+              <item name="day13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
@@ -158,28 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hw14">
-    <configuration name="hw12" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FSPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12/hw12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.jiui">
     <configuration name="hw13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,6 +199,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day14/hw14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jiui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FSPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test1/jiui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.jiui" />
         <item itemvalue="Python.hw14" />
         <item itemvalue="Python.pre14" />
         <item itemvalue="Python.hw13" />
         <item itemvalue="Python.pre13" />
-        <item itemvalue="Python.hw12" />
       </list>
     </recent_temporary>
   </component>
@@ -288,9 +294,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="505" y="23" width="935" height="873" extended-state="0" />
+    <frame x="462" y="23" width="978" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.33479214" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.23510972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -487,13 +494,6 @@
     <entry file="file://$PROJECT_DIR$/test/shop.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test1/t1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test1/userinfo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -589,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test1/jiui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/xiao/backpy/w1/web3/上课预习3/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -627,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day13/hw13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="307" column="24" lean-forward="true" selection-start-line="288" selection-end-line="307" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/作业/day14/s21day14 作业.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1456">
@@ -651,6 +637,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test1/t1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/hw13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="370" column="36" selection-start-line="370" selection-start-column="36" selection-end-line="370" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test1/jiui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2928">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
         </state>
       </provider>
     </entry>
