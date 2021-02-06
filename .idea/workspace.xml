@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ecf7b-b3dd-4541-ae3e-e1fe5f293e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day13/abc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2/typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2/writing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week2/bky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week2/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week2/msg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week2/qs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/hw15.py" beforeDir="false" afterPath="$PROJECT_DIR$/day15/hw15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/week2/bky.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week2/bky.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,52 +11,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4312455">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/test/week2/bky.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="606">
-                  <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
-                  <folding>
-                    <element signature="e#43#238#0" />
-                    <element signature="e#286#395#0" />
-                    <element signature="e#527#630#0" />
-                    <element signature="e#678#834#0" />
-                    <element signature="e#501#983#0" />
-                    <element signature="e#939#1487#0" />
-                    <element signature="e#91#213#0" />
-                    <element signature="e#875#902#0" />
-                    <element signature="e#930#957#0" />
-                    <element signature="e#983#1010#0" />
-                    <element signature="e#1078#1789#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test/week2/msg">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/test/week2/qs.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="514">
-                  <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/week2/bky.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="163" column="5" lean-forward="true" selection-start-line="163" selection-start-column="5" selection-end-line="163" selection-end-column="5" />
+              <folding>
+                <element signature="e#43#238#0" />
+                <element signature="e#286#395#0" />
+                <element signature="e#527#630#0" />
+                <element signature="e#678#834#0" />
+                <element signature="e#501#983#0" />
+                <element signature="e#939#1487#0" />
+                <element signature="e#2282#2548#0" />
+                <element signature="e#875#902#0" />
+                <element signature="e#930#957#0" />
+                <element signature="e#983#1010#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -175,11 +144,6 @@
             <path>
               <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSPython" type="462c0819:PsiDirectoryNode" />
-              <item name="day13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FSPython" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -201,17 +165,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day14" />
-      <recent name="$PROJECT_DIR$/day13" />
-      <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$/day8" />
-      <recent name="$PROJECT_DIR$/day1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day15/tt" />
       <recent name="$PROJECT_DIR$/test/test1" />
       <recent name="$PROJECT_DIR$/day9" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/week2" />
+      <recent name="$PROJECT_DIR$/day14" />
+      <recent name="$PROJECT_DIR$/day13" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/day8" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -356,9 +320,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="626" y="23" width="814" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.12473573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.03783102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -397,20 +362,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day11/pre11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/22期教学计划/day12 课堂笔记以及代码/day12/01 作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2500">
-          <caret line="135" column="16" lean-forward="true" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day11/hw11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11136">
@@ -734,15 +685,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/week2/qs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="-802">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/week2/a">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/week2/abc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/week2/bky.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
+        <state relative-caret-position="495">
+          <caret line="163" column="5" lean-forward="true" selection-start-line="163" selection-start-column="5" selection-end-line="163" selection-end-column="5" />
           <folding>
             <element signature="e#43#238#0" />
             <element signature="e#286#395#0" />
@@ -750,11 +707,10 @@
             <element signature="e#678#834#0" />
             <element signature="e#501#983#0" />
             <element signature="e#939#1487#0" />
-            <element signature="e#91#213#0" />
+            <element signature="e#2282#2548#0" />
             <element signature="e#875#902#0" />
             <element signature="e#930#957#0" />
             <element signature="e#983#1010#0" />
-            <element signature="e#1078#1789#0" />
           </folding>
         </state>
       </provider>

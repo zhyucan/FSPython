@@ -137,6 +137,10 @@ def cancel(u):
     u['status'] = False
 
 
+def _quit():
+    return exit()
+
+
 def main(u):
     log("""
     1.请登录
@@ -148,26 +152,21 @@ def main(u):
     7.注销账号
     8.退出整个程序
     """)
+    dic = {
+        1: login,
+        2: register,
+        3: article,
+        4: review,
+        5: diary,
+        6: fav,
+        7: cancel,
+        8: _quit,
+    }
     while 1:
         choice = input('输入数字 1~8: ')
         if choice.isdecimal() and int(choice) in range(1, 9):
             num = int(choice)
-            if num == 1:
-                login()
-            elif num == 2:
-                register()
-            elif num == 3:
-                article(u)
-            elif num == 4:
-                review(u)
-            elif num == 5:
-                diary(u)
-            elif num == 6:
-                fav(u)
-            elif num == 7:
-                cancel(u)
-            elif num == 8:
-                break
+            dic[num]()
         else:
             log('按要求输入数字喔~')
 
