@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ecf7b-b3dd-4541-ae3e-e1fe5f293e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day19/hw19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/hw20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/oshw/dir1/b/b1/b11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/oshw/dir1/b/x.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/oshw/dir1/ff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/oshw/f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/oshw/f1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/pre20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19/re.py" beforeDir="false" afterPath="$PROJECT_DIR$/day19/re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/hw20.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/hw20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/oshw/dir1/b/x.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/oshw/dir1/b/x.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/oshw/dir1/ff.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day20/oshw/dir1/ff.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/oshw/f" beforeDir="false" afterPath="$PROJECT_DIR$/day20/oshw/f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/oshw/f1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/oshw/f1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/pre20.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/pre20.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day20/pre20.py">
+        <entry file="file://$PROJECT_DIR$/day20/hw20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="590">
+              <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
             </state>
           </provider>
         </entry>
@@ -52,6 +47,9 @@
       <replace>user</replace>
       <replace>name</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/day20/oshw</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/t1.txt" />
-        <option value="$PROJECT_DIR$/test/exam1.py" />
         <option value="$PROJECT_DIR$/test/test1/a.txt" />
         <option value="$PROJECT_DIR$/test/test1/userinfo.txt" />
         <option value="$PROJECT_DIR$/day12/pre12.py" />
@@ -107,12 +103,14 @@
         <option value="$PROJECT_DIR$/day19/re.py" />
         <option value="$PROJECT_DIR$/day20/recursion.py" />
         <option value="$USER_HOME$/Desktop/llh/day20 re模块 递归函数 带参数的修饰器/day20/8.装饰器.py" />
-        <option value="$PROJECT_DIR$/day20/pre20.py" />
-        <option value="$PROJECT_DIR$/day20/oshw/f1.py" />
-        <option value="$PROJECT_DIR$/day20/oshw/dir1/b/x.py" />
         <option value="$PROJECT_DIR$/day20/oshw/dir1/b/b1/b11.py" />
-        <option value="$PROJECT_DIR$/day20/hw20.py" />
         <option value="$PROJECT_DIR$/day19/hw19.py" />
+        <option value="$PROJECT_DIR$/day20/pre20.py" />
+        <option value="$PROJECT_DIR$/day20/oshw/f" />
+        <option value="$PROJECT_DIR$/day20/oshw/f1.py" />
+        <option value="$PROJECT_DIR$/day20/oshw/dir1/ff.txt" />
+        <option value="$PROJECT_DIR$/day20/oshw/dir1/b/x.py" />
+        <option value="$PROJECT_DIR$/day20/hw20.py" />
       </list>
     </option>
   </component>
@@ -326,19 +324,19 @@
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.12614517" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.12614517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290653" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2650448" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.2650448" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948782" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.7644046" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3290653" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.2650448" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5006402" weight="0.37259924" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -365,16 +363,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day14/pre14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding>
-            <element signature="e#29#31#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/llh/day00/22 学生 2/作业/day14/s21day14 作业.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1456">
@@ -640,39 +628,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day20/oshw/dir1/b/b1/b11.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/oshw/dir1/b/x.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/oshw/dir1/ff.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/oshw/f">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/oshw/f1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/hw20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day19/hw19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="-658">
           <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day20/pre20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="216">
+          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+          <folding>
+            <element signature="e#192#965#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/oshw/f">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/oshw/f1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/oshw/dir1/ff.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/oshw/dir1/b/x.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/oshw/dir1/b/b1/b11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/hw20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
         </state>
       </provider>
     </entry>

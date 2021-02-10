@@ -123,10 +123,77 @@ log = print
 import os
 
 
-def check_file(path):
-    os.listdir('dirname')
+# 用 walk
+# def check(file_name):
+#     g = os.walk(file_name)
+#
+#     for i in g:
+#         for j in i[2]:
+#             log(j)
 
 
-check_file('day20/oshw')
+# check('oshw')
+
+
+# 不用 walk
+# def check1(file_name):
+#     for i in os.listdir(file_name):
+#         # i_path = file_name + '/' + i
+#         i_path = os.path.join(file_name, i)
+#         if os.path.isfile(i_path):
+#             log(i)
+#         else:
+#             check1(i_path)
+#
+#
+# check1('oshw')
+
 
 # os模块:计算一个文件夹下所有文件的大小,这个文件夹下面还有文件夹
+# 用 walk
+# def size1(file_name):
+#     g = os.walk(file_name)
+#     result = 0
+#
+#     for i in g:
+#         path, path_file = i[0], i[2]
+#         for j in path_file:
+#             j_path = os.path.join(path, j)
+#             result += os.path.getsize(j_path)
+#
+#     log(result)
+#
+#
+# size1('oshw')
+
+
+# 不用 walk
+# size = 0
+#
+#
+# def size2(file_name):
+#     global size
+#     for i in os.listdir(file_name):
+#         i_path = os.path.join(file_name, i)
+#         if os.path.isfile(i_path):
+#             size += os.path.getsize(i_path)
+#         else:
+#             size2(i_path)
+#
+#
+# size2('oshw')
+# log(size)
+
+
+# def size3(file_name):
+#     size = 0
+#     for i in os.listdir(file_name):
+#         i_path = os.path.join(file_name, i)
+#         if os.path.isfile(i_path):
+#             size += os.path.getsize(i_path)
+#         else:
+#             size += size3(i_path)
+#     return size
+#
+#
+# log(size3('oshw'))
