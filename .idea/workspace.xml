@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ecf7b-b3dd-4541-ae3e-e1fe5f293e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wusir/d12/goods.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wusir/d12/hw12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wusir/d12/pre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fav/closure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wusir/d13/pre.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fav/closure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,10 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day20/oshw/dir1/b/b1/b11.py" />
-        <option value="$PROJECT_DIR$/day19/hw19.py" />
-        <option value="$PROJECT_DIR$/day20/pre20.py" />
-        <option value="$PROJECT_DIR$/day20/oshw/f" />
         <option value="$PROJECT_DIR$/day20/oshw/f1.py" />
         <option value="$PROJECT_DIR$/day20/oshw/dir1/ff.txt" />
         <option value="$PROJECT_DIR$/day20/oshw/dir1/b/x.py" />
@@ -107,13 +112,17 @@
         <option value="$PROJECT_DIR$/wusir/d11/hw11.py" />
         <option value="$PROJECT_DIR$/wusir/d12/pre.py" />
         <option value="$PROJECT_DIR$/wusir/d12/hw12.py" />
+        <option value="$PROJECT_DIR$/wusir/d13/closure.py" />
+        <option value="$PROJECT_DIR$/wusir/d13/test.py" />
+        <option value="$PROJECT_DIR$/wusir/d13/pre.py" />
+        <option value="$PROJECT_DIR$/fav/closure.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="610" />
+    <option name="x" value="507" />
     <option name="y" value="23" />
-    <option name="width" value="830" />
+    <option name="width" value="933" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -135,12 +144,23 @@
             <path>
               <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSPython" type="462c0819:PsiDirectoryNode" />
+              <item name="fav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FSPython" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSPython" type="462c0819:PsiDirectoryNode" />
               <item name="wusir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FSPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FSPython" type="462c0819:PsiDirectoryNode" />
+              <item name="wusir" type="462c0819:PsiDirectoryNode" />
+              <item name="d13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,19 +176,19 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fav" />
+      <recent name="$PROJECT_DIR$/wusir/d1-d8" />
+      <recent name="$PROJECT_DIR$/wusir" />
+      <recent name="$PROJECT_DIR$/wusir/exam1" />
+      <recent name="$PROJECT_DIR$/wusir/d7" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wusir/d12" />
       <recent name="$PROJECT_DIR$/day18/blog/core" />
       <recent name="$PROJECT_DIR$/test/week2" />
       <recent name="$PROJECT_DIR$/day14" />
       <recent name="$PROJECT_DIR$/day13" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wusir/d1-d8" />
-      <recent name="$PROJECT_DIR$/wusir" />
-      <recent name="$PROJECT_DIR$/wusir/exam1" />
-      <recent name="$PROJECT_DIR$/wusir/d7" />
-      <recent name="$PROJECT_DIR$/day18/blog/bin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,8 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hw12">
-    <configuration name="hw10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pre (1)">
+    <configuration name="closure (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wusir/d10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fav" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wusir/d10/hw10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fav/closure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="closure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,11 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wusir/d11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wusir/d13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wusir/d11/hw11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wusir/d13/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,6 +288,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pre (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FSPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wusir/d13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wusir/d13/pre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pre" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FSPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,34 +330,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pre11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FSPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wusir/d11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wusir/d11/pre11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pre (1)" />
+        <item itemvalue="Python.closure (1)" />
+        <item itemvalue="Python.closure" />
         <item itemvalue="Python.hw12" />
         <item itemvalue="Python.pre" />
-        <item itemvalue="Python.hw11" />
-        <item itemvalue="Python.pre11" />
-        <item itemvalue="Python.hw10" />
       </list>
     </recent_temporary>
   </component>
@@ -334,14 +354,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="610" y="23" width="830" height="873" extended-state="0" />
+    <frame x="507" y="23" width="933" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.18788628" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290653" />
-      <window_info anchor="bottom" x="0" y="306" width="506" height="590" id="Run" order="2" sideWeight="0.49964765" weight="0.33290654" />
+      <window_info active="true" anchor="bottom" x="0" y="306" width="506" height="590" id="Run" order="2" sideWeight="0.49964765" type="FLOATING" visible="true" weight="0.33290654" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948782" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,19 +396,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/llh/day24 继承/day24/6.pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day25/test_memo">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day25/test_memo1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/llh/day25 经典类和新式类和多继承 抽象类 多态/day25/1.早默写.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -692,6 +700,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="458" selection-start-line="458" selection-end-line="458" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wusir/d13/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wusir/d13/pre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fav/closure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
