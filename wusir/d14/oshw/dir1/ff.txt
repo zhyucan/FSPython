@@ -1,0 +1,48 @@
+log = print
+
+# # 有了尾递归，编译器就可以更好的优化程序的执行过程
+#
+# # 尾递归和循环一一对应
+#
+# # 尾递归比线性递归多一个参数，这个参数是上一次调用函数得到的结果
+#
+#
+# # e.g.1
+# # x 的 y 次方
+#
+# # 递归
+# def pow1(x, y):
+#     if y == 1:
+#         return x
+#     else:
+#         return pow1(x, y - 1) * x
+#
+#
+# # 循环
+# def pow2(x, y, result=1):
+#     while y > 0:
+#         result *= x
+#         y -= 1
+#     return result
+#
+#
+# # 尾递归
+# def pow3(x, y, result=1):
+#     if y == 0:
+#         return result
+#     else:
+#         return pow3(x, y - 1, result * x)
+#
+#
+# # e.g.2
+# # 阶乘
+#
+# # 递归
+# def fac1(n):
+#     if n in [0, 1]:
+#         return 1
+#     else:
+#         return n * fac1(n - 1)
+#
+
+# 不用 walk
