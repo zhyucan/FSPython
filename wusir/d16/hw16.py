@@ -126,17 +126,15 @@ log = print
 # def display(quantity):
 #     with open('goods.txt') as f:
 #         f.readline()
-#         index = 0
 #         while 1:
-#             index += quantity
 #             for _ in range(quantity):
 #                 line = f.readline().strip()
 #                 if not line:
 #                     return
 #                 log(line)
 #             log('******')
-#
-#
+
+
 # display(4)
 
 
@@ -146,35 +144,80 @@ log = print
 # 购买完成之后将购买的所有商品写入到文件中【文件格式为：年_月_日.txt】
 # 注意：重复购买同一件商品时，只更改购物车中的数量。
 
-# 购物车
-SHOPPING_CAR = {}
+# # 购物车
+# SHOPPING_CAR = {}
+#
+# # 商品列表
+# GOODS_LIST = [
+#     {'id': 1, 'title': '飞机', 'price': 1000},
+#     {'id': 3, 'title': '大炮', 'price': 1000},
+#     {'id': 8, 'title': '迫击炮', 'price': 1000},
+#     {'id': 9, 'title': '手枪', 'price': 1000},
+# ]
+#
+#
+# import time
+#
+#
+# def display(lst):
+#     log('商品列表: ')
+#     for i in range(len(lst)):
+#         good = lst[i]
+#         log('{} {} {}'.format(good['id'], good['title'], good['price']))
+#
+#
+# def user_choice(id, num):
+#     """
+#     添加到购物车 SHOPPING_CAR
+#     """
+#     name = None
+#     for i in GOODS_LIST:
+#         if id == str(i['id']):
+#             name = i['title']
+#             break
+#
+#     if SHOPPING_CAR.get(name):
+#         SHOPPING_CAR[name] = str(int(num) + int(SHOPPING_CAR[name]))
+#     else:
+#         SHOPPING_CAR[name] = num
+#
+#
+# def write_car(dic):
+#     """
+#     把 SHOPPING_CAR 写入文件
+#     :param dic: {'飞机': '2', '手枪': '8', '大炮': '88', }
+#     :return: None
+#     """
+#     t = time.strftime("%Y_%m_%d")
+#     filename = f'{t}.txt'
+#     with open(filename, mode='w') as f:
+#         for k, v in dic.items():
+#             f.write(f'{k} {v} 件\n')
+#
+#
+# def shopping():
+#     display(GOODS_LIST)
+#     while 1:
+#         id = input('想要商品的序号(N/n): ').strip()
+#         if id.upper() == 'N':
+#             break
+#         num = input('想要多少件: ').strip()
+#         user_choice(id, num)
+#     write_car(SHOPPING_CAR)
 
-# 商品列表
-GOODS_LIST = [
-    {'id': 1, 'title': '飞机', 'price': 1000},
-    {'id': 3, 'title': '大炮', 'price': 1000},
-    {'id': 8, 'title': '迫击炮', 'price': 1000},
-    {'id': 9, 'title': '手枪', 'price': 1000},
-]
 
-
-def display(lst):
-    log('商品列表: ')
-    for i in range(len(lst)):
-        good = lst[i]
-        log('{} {} {}'.format(good['id'], good['title'], good['price']))
-
-
-def user_choice(id, num):
-
+# shopping()
 
 
 # 程序设计：沙河商城
 # 功能：
-# 1.用户注册，提示用户输入用户名和密码，然后获取当前注册时间，最后将用户名、密码、注册时间写入到文件。
-# 2.用户登录，只有三次错误机会，一旦错误则冻结账户（下次启动也无法登录，提示：用户已经冻结）。
-# 3.商品浏览，分页显示商品（小文件）； 用户可以选择商品且可以选择数量然后加入购物车（在全局变量操作），
-#   不再购买之后，需要讲购物车信息写入到文件，文件要写入到指定目录：
+# 1.用户注册，提示用户输入用户名和密码，然后获取当前注册时间，
+# 最后将用户名、密码、注册时间写入到文件。
+# 2.用户登录，只有三次错误机会，一旦错误则冻结账户
+# （下次启动也无法登录，提示：用户已经冻结）。
+# 3.商品浏览，分页显示商品（小文件）
+# 用户可以选择商品且可以选择数量然后加入购物车（在全局变量操作），
+# 不再购买之后，需要讲购物车信息写入到文件，文件要写入到指定目录：
 # shopping_car(文件夹)
 #   - 用户名A(文件夹)
 #       2019-11-11-09-59.txt
@@ -185,7 +228,8 @@ def user_choice(id, num):
 #       2019-11-12-11-15.txt
 #       2019-12-11-11-22.txt
 #   注意：重复购买同一件商品时，只更改购物车中的数量。
-# 4.我的购物车，查看用户所有的购物车记录，即：找到shopping_car目录下当前用户所有的购买信息，并显示：
+# 4.我的购物车，查看用户所有的购物车记录，
+# 即：找到shopping_car目录下当前用户所有的购买信息，并显示：
 # 2019-11-11-09-59
 #   飞机|1000|10个
 #   大炮|2000|3个
@@ -193,7 +237,8 @@ def user_choice(id, num):
 #   迫击炮|10000|10个
 #   手枪|123|3个
 #
-# 5.用户未登录的情况下，如果访问 商品流程 、我的购物车 时，提示登录之后才能访问，让用户先去选择登录（装饰器实现）。
+# 5.用户未登录的情况下，如果访问 商品流程 、我的购物车 时，
+# 提示登录之后才能访问，让用户先去选择登录（装饰器实现）。
 
 
 # 请使用第三方模块xlrd读取一个excel文件中的内容。【课外】
